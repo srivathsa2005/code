@@ -3,6 +3,4 @@ ece
 maths
 qwerty
 subject
-
-
-sOURCE CODE MANAGEMENT
+SOURCE CODE MANAGEMENT
